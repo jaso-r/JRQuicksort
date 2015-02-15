@@ -1,5 +1,13 @@
 *.class
 
+# Build results
+[Dd]ebug/
+build/
+dist/
+
+# NetBeans Project Folder
+nbproject/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
